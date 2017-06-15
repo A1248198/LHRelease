@@ -1,0 +1,2 @@
+lighthouse.PredicateInst
+lighthouse.PredicateInstComparator
